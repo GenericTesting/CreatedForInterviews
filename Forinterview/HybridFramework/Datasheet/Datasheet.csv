@@ -1,0 +1,2 @@
+TC_Name,Execution,Browser,URL,FirstName,LastName,telephone,company,address one,address two,city,state,postcode,country,loginname,password,Confirm password
+TC_UI Assesment_Cart Page,Yes,Chrome,https://automationteststore.com/,Umapathy,Veera,9898989898,ChaiKings,Block 3,102 white building,newyork,Solothurn,4500,Switzerland,Umapathy,Automation@1,Automation@1
